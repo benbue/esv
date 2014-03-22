@@ -23,7 +23,7 @@
 </script>
     <div class="row">
       <div class="large-12 columns">
-        <h3>Anmeldung zum Fußball-Camp / Osterferien 2014</h3>
+        <h3>Anmeldung zum Fu�ball-Camp / Osterferien 2014</h3>
 		<p> Angebot für die Jahrgänge 2002 - 2006 (1. und 2. Ferienwoche)</p>
       </div>
     </div>
