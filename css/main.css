@@ -1,0 +1,48 @@
+
+a {
+  color: #BB0000;
+  text-decoration: none;
+  line-height: inherit; }
+  a:hover, a:focus {
+    color: #777777; }
+  a img {
+    border: none; }
+	
+h5.balken {
+color: #FFFFFF;
+font-size: 90%;
+font-weight: 500;
+background: #993333;
+padding: 0.2em 0.1em 0.1em 0.4em;
+margin: 0.2em 0 0.8em 0;
+}
+
+button, .button {
+  background-color: #993333;  // ESV-Farbe
+  }
+  
+button:hover, button:focus, .button:hover, .button:focus {
+    background-color: #BB4444;
+	}
+
+
+fieldset {
+background: #F3F3F3;
+}
+
+div.panel > p {
+font-size: 0.8em;
+}
+
+.panel.callout {
+background: #EEEEEE;
+border-color: #AAAAAA;
+margin-top: 0.6em;
+padding: 0.7em;
+font-size: 0.9em;
+}
+
+.zentriert {
+margin: 0.8em 0 0 0;
+}
+/* schiebt die Radio-Buttons tiefer, damit sie zentriert zu den Textfeldern stehen
