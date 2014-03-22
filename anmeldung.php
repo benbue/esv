@@ -15,7 +15,12 @@
 	<!-- script type="text/javascript" src="js/parsley.js"></script --> 
   </head>
   <body>
-    
+ <script type="text/javascript"> 
+        $(document).ready(function() {  
+        $(":header").css("border", "solid 1px #ccc");
+	$( "input[type*='text']" ).css( "border", "3px dotted red" );
+    });  
+</script>
     <div class="row">
       <div class="large-12 columns">
         <h3>Anmeldung zum Fußball-Camp / Osterferien 2014</h3>
